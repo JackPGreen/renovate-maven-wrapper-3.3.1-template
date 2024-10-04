@@ -1,17 +1,15 @@
-# minimal-reproduction-template
+# [31696](https://github.com/renovatebot/renovate/discussions/31696)
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+Dummy project with Maven wrapper `3.3.1`
 
 ## Current behavior
 
-Explain the current behavior here.
+No upgrades are suggested.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Should suggest an upgrade to [`3.3.2`](https://github.com/apache/maven-wrapper/releases/tag/maven-wrapper-3.3.2).
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+[Put your link to the Renovate issue or Discussion here.](https://github.com/renovatebot/renovate/discussions/31696)
